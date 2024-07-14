@@ -1,4 +1,4 @@
-# Description of the Model
+# Predict Vaccination outcomes
 
 ## Overview
 
